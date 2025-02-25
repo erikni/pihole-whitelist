@@ -1,11 +1,3 @@
-#
-# --- home-assistant --
-# whitelist for pi-hole.net
-#
-# domains:
-# *.home-assistant.io
-#
-# hosts:
 alerts.home-assistant.io
 brands.home-assistant.io
 _checkdns.home-assistant.io
