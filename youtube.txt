@@ -1,0 +1,22 @@
+#
+# --- youtube --
+# whitelist for pi-hole.net
+#
+# domains:
+# *.googleapis.com
+# *.google.com
+# *.|^)googlevideo.com
+# *.youtube.com
+# *.ytimg.com
+#
+# hosts:
+accounts.youtube.com
+(\.|^)googlevideo.com
+i1.ytimg.com
+i.ytimg.com
+s.youtube.com
+www.youtube.com
+youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
+youtube-ui.l.google.com
