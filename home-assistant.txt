@@ -1,0 +1,15 @@
+#
+# whitelist for pi-hole.net
+# *.home-assistant.io 
+#
+alerts.home-assistant.io
+brands.home-assistant.io
+_checkdns.home-assistant.io
+checkonline.home-assistant.io
+demo.home-assistant.io
+developers.home-assistant.io
+mobile-apps.home-assistant.io
+my.home-assistant.io
+services.home-assistant.io
+version.home-assistant.io
+www.home-assistant.io
