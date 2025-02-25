@@ -1,0 +1,19 @@
+#
+# --- smartthings --
+# whitelist for pi-hole.net
+#
+# domains:
+# *.smartthings.com
+#
+# hosts:
+api.smartthings.com
+auth.api.smartthings.com
+auth-global.api.smartthings.com
+client-assets.smartthings.com
+client.smartthings.com
+connectivity.smartthings.com
+dc2-na04-useast2.connect.smartthings.com
+hub.smartthings.com
+spigot-regional.api.smartthings.com
+updaterng.smartthings.com
+usher.connect.smartthings.com
