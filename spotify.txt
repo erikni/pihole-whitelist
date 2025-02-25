@@ -1,0 +1,25 @@
+#
+# --- spotify --
+# whitelist for pi-hole.net
+#
+# domains:
+# *.spotifycdn.com
+# *.spotify.com
+# *.spotify.dev
+#
+# hosts:
+accounts.spotify.com
+agnostic-api.spotify.dev
+ap-gew4.spotify.com
+api.spotify.com
+apresolve.spotify.com
+ap.spotify.com
+apt-tv.spotify.com
+clienttoken.spotify.com
+gew4-dealer.g2.spotify.com
+gew4-spclient.spotify.com
+image-cdn-ak.spotifycdn.com
+image-cdn-fa.spotifycdn.com
+login5.spotify.com
+mobile-ap.spotify.com
+spclient.wg.spotify.com
